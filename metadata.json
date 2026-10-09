@@ -1,0 +1,6 @@
+{
+  "name": "Gelişmiş Otomasyon Asistanı",
+  "description": "Modüler oyun otomasyonu, görev orkestratörü, Python kod üretici ve sanal bot simülasyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
