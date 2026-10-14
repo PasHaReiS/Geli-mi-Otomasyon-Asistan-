@@ -1,2 +1,5 @@
+[providers]
+nix = ["python3", "python311Packages/pip"]
+
 [phases.build]
 cmds = ["pip install -r backend/requirements.txt"]
