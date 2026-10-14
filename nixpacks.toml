@@ -1,2 +1,2 @@
-[phases.setup]
-nixPkgs = ["python3", "python3Pip"]
+[phases.build]
+cmds = ["pip install -r backend/requirements.txt"]
